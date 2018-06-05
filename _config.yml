@@ -1,0 +1,12 @@
+theme: minima
+
+title: "PhotoDemon: the fast, free, portable photo editor"
+baseurl: "/photodemon-dot-org"
+url: "https://tannerhelland.github.io"
+# to serve the site locally without the baseurl entry screwing things up, use "jekyll server --baseurl ''"
+rss: true
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
