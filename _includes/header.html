@@ -3,7 +3,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" | sort: alphabetical -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ "/media/pd_logo_mini.png" | relative_url }}" alt="PhotoDemon logo" />{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ "/media/pd_logo_mini.png" | relative_url }}" alt="PhotoDemon logo" srcset="{{ "/media/pd_logo_mini_2x.png" | relative_url }} 2x" />{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
