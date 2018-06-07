@@ -9,7 +9,7 @@ Stable
 
 **Version 7.0.1 is the latest stable release.**  [See what's new in this release](2018/01/15/photodemon-7-0-1-release).
 
-**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v7.0.1/PhotoDemon_7.0.1.zip"><img src="media/Download-24.png" alt="Download" />Download PhotoDemon 7.0.1 (zip file, 12.1 mb)</a>**<br />
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v7.0.1/PhotoDemon_7.0.1.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 7.0.1 (zip file, 12.1 mb)</a>**<br />
 
 Zip file checksums:
 
@@ -29,7 +29,7 @@ Every night, a new build is automatically created from the latest PhotoDemon sou
 
 **Use at your own risk.**
 
-<a href="https://github.com/tannerhelland/PhotoDemon-Updates/blob/master/PhotoDemon_nightly.zip?raw=true"><img src="media/Download-24.png" alt="Download" />Download latest nightly build (zip file, 12.3 mb)</a>
+<a href="https://github.com/tannerhelland/PhotoDemon-Updates/blob/master/PhotoDemon_nightly.zip?raw=true"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 12.3 mb)</a>
 
 Source code
 ------------------
