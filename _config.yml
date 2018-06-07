@@ -6,6 +6,7 @@ url: "http://photodemon.org"
 # to serve the site locally without the baseurl entry screwing things up, use "jekyll server --baseurl ''"
 rss: true
 show_excerpts: true
+google_analytics: UA-120545399-1
 
 plugins:
   - jekyll-feed
