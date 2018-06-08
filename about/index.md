@@ -19,6 +19,10 @@ Ongoing development is supported by [donations](donate/).  If you enjoy using th
 
 ### Contact me
 
-Patreon subscribers can submit comments at [PhotoDemon's Patreon Community page](https://www.patreon.com/photodemon/community).
+Patreon subscribers can submit feedback and requests at [PhotoDemon's Patreon Community page](https://www.patreon.com/photodemon/community).
 
-All other users can submit bug reports, feedback, or questions by [filing an issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues).  
+All other users can submit bug reports, feedback, or suggestions by [filing an issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues).
+
+For anything else, you can reach me (PhotoDemon's author) at **tanner&lt;at&gt;photodemon.org**.  Because this is a volunteer effort, I can't always promise a reply, but your email will always be read (...eventually).  
+
+Thanks for reaching out!
