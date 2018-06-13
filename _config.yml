@@ -11,3 +11,4 @@ google_analytics: UA-120545399-1
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap
