@@ -29,7 +29,7 @@ Every night, a new build is automatically created from the latest PhotoDemon sou
 
 **Use at your own risk.**
 
-<a href="https://github.com/tannerhelland/PhotoDemon-Updates/blob/master/PhotoDemon_nightly.zip?raw=true"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 12.3 mb)</a>
+<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 12.3 mb)</a>
 
 Source code
 ------------------
