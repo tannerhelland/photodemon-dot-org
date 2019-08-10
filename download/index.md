@@ -29,13 +29,15 @@ Every night, a new build is automatically created from the latest PhotoDemon sou
 
 **Use at your own risk.**
 
-<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 13.4 mb)</a>
+<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 13.8 mb)</a>
 
 Source code
 ------------------
 
 [<svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg>PhotoDemon's source code is available on GitHub](https://github.com/tannerhelland/PhotoDemon)
 
-For best results, clone the full repository onto your local PC using a tool like [GitHub Desktop](https://desktop.github.com/).
+For best results, clone or fork the full PhotoDemon repository using a tool like [GitHub Desktop](https://desktop.github.com/).
 
-You can also download the source code as a ZIP file by clicking the green "Clone or download" button, then selecting "Download ZIP".
+You can also download the latest source code as a ZIP file by clicking the green "Clone or download" button, then selecting "Download ZIP".
+
+Once you've obtained PhotoDemon's source code, you can build PhotoDemon.exe in just three mouse-clicks.  [Full build instructions are available at GitHub](https://github.com/tannerhelland/PhotoDemon/blob/master/INSTALL.md).
