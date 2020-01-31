@@ -1,6 +1,7 @@
 theme: minima
 
 title: "PhotoDemon: the fast, free, portable photo editor"
+description: "the fast, free, portable photo editor"
 baseurl: "/"
 url: "https://photodemon.org"
 # to serve the site locally without the baseurl entry screwing things up, use "jekyll server --baseurl ''"
