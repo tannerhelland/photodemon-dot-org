@@ -4,6 +4,24 @@ slug: download
 title: Download
 ---
 
+New 8.0 beta available
+-------------------
+
+After 2.5 years of work, a **new PhotoDemon 8.0 beta** is available.  [See what's new in this release](2020/07/28/photodemon-8-0-beta).
+
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0-beta.1/PhotoDemon-8.0-beta.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 8.0-beta-1 (zip file, 13.6 mb)</a>**<br />
+
+Zip file checksums:
+
+CRC-32: 9e329625<br />
+MD5: 21c6daf9e38e4a9a0083350fad4387da<br />
+SHA-1: 4c27edebb08989c0a934f2d0e11426db14f627b9<br />
+SHA-256: 0b7c4d06b08500722b5a2ff6e9feb746debdde9407ae840cae3fffdb2dcbb7ea<br />
+
+PhotoDemon is 100% free.  You are welcome to use and distribute it however you like, but like most free software, it is completely "use at your own risk".  For additional details, please review [the license page](license/#photodemon-license).
+
+(The soon-to-be-replaced 7.0.1 stable release is still available below.)
+
 Stable
 -------------------
 

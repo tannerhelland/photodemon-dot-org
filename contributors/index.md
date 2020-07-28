@@ -16,6 +16,9 @@ Ongoing PhotoDemon development is supported by our [awesome Patreon members](htt
 Super Patrons:
 
 * [EFF.ORG](https://www.eff.org/)
+* [Jason Brown](https://statslog.com/)
+* Jessica H
+* Johannes Nendel
 
 ### 3rd-party libraries
 
@@ -24,11 +27,11 @@ The current PhotoDemon build uses these 3rd-party libraries.  Thank you to these
 * [ExifTool](https://exiftool.org/)
 * [EZTwain](http://eztwain.com/eztwain1.htm)
 * [FreeImage](http://freeimage.sourceforge.net/)
+* [libdeflate](https://github.com/ebiggers/libdeflate)
 * [LittleCMS](http://www.littlecms.com)
 * [LZ4](https://lz4.github.io/lz4/)
 * [OptiPNG](http://optipng.sourceforge.net/)
 * [Pngquant](https://pngquant.org/)
-* [ZLib](https://www.zlib.net/)
 * [ZStandard](https://github.com/facebook/zstd)
 
 ### Direct contributors
@@ -62,12 +65,14 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * Francis DC
 * [Frank Donckers](http://www.planetsourcecode.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=1&blnAuthorSearch=TRUE&lngAuthorId=2213335741)
 * [Frans van Beers](https://plus.google.com/+FransvanBeers/)
+* [Gerry Busch](http://gbusch.altervista.org/)
 * [Giorgio "Gibra" Brausi](http://nuke.vbcorner.net)
 * [GioRock](http://www.planet-source-code.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=1&blnAuthorSearch=TRUE&lngAuthorId=77440558266)
 * [Google Translate](http://translate.google.com)
 * [Hans Nolte](https://github.com/hansnolte)
 * Helmut Kuerbiss
 * Hidayat Suriapermana
+* [J. Scott Elblein](https://geekdrop.com)
 * [Jason Bullen](http://www.planetsourcecode.com/vb/scripts/ShowCode.asp?txtCodeId=11488&lngWId=1)
 * [Jason Peter Brown](https://github.com/jpbro)
 * Jean Jacques Piedfort

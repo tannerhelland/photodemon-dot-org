@@ -7,6 +7,10 @@ title: Home
 Download
 --------
 
+After 2.5 years of work, [a new PhotoDemon release is imminent](2020/07/28/photodemon-8-0-beta).  Please consider trying the 8.0 beta.
+
+New 8.0 beta release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0-beta.1/PhotoDemon-8.0-beta.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.0-beta-1 (zip file, 13.6 mb)</a>**<br />
+
 Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v7.0.1/PhotoDemon_7.0.1.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 7.0.1 (zip file, 12.1 mb)</a>**<br />
 
 For additional downloads, including nightly builds and checksums, [visit the download page](download/).
