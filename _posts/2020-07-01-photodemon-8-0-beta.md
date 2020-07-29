@@ -7,17 +7,19 @@ title: PhotoDemon 8.0 beta is now available
 excerpt: After 2.5 years of work, a new PhotoDemon release is almost ready. New features include clone and pattern brush tools, a new gradient tool, support for Adobe Photoshop (PSD) images, massive performance improvements, new filters and effects, and much more.
 ---
 
-## Download the beta
-
-If you already have a copy of PhotoDemon, you're good to go!  The program will automatically update according to your preference in the **Tools > Options > Updates** menu.  (Make sure you've selected update notifications for the **stable and beta releases** or **stable, beta, and developer releases** track.)
-
-If you want to manually download a fresh copy of the beta, [click here](https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0-beta.1/PhotoDemon-8.0-beta.zip), or **[visit the download page](download/)**.
+![screen-capture](media/images/pd_8.0_beta.png)
 
 ## Overview
 
 After 2.5 years of work, PhotoDemon 8.0 is almost ready. Highlights of this release include new clone and pattern brush tools, a new gradient tool, support for Adobe Photoshop (PSD) images, animated GIF and PNG images, Windows Icon (ICO) images, and OpenRaster (ORA) images, massive performance improvements, new filters and effects, and much more.
 
-This release was a monumental effort, and it would not be possible without all the amazing contributors who donated money, time, and feedback.  [Thank you to everyone who donates!](donate/)  Your support means the world to me.
+This release was a monumental effort, and it would not be possible without all the amazing contributors who donated money, time, and feedback.  [Thank you to everyone who donates!](donate/)  Your support makes this project possible.
+
+## Download the beta
+
+If you already have a copy of PhotoDemon, you're good to go!  The program will automatically update according to your preference in the **Tools > Options > Updates** menu.  (Make sure you've selected update notifications for the **stable and beta releases** or **stable, beta, and developer releases** track.)
+
+If you want to manually download a fresh copy of the beta, [**click here**](https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0-beta.1/PhotoDemon-8.0-beta.zip) or **[visit the download page](download/)**.
 
 ## Special thanks
 
@@ -27,7 +29,7 @@ Thank you as well to everyone who contributed bug reports, feature ideas, and fe
 
 ## Stable release
 
-As with past releases, I'd like to allow several weeks for everyone to test this beta.  If no horrific issues are encountered, a stable release will follow sometime in August 2020.
+As with past releases, I'd like to allow several weeks for everyone to test this beta.  If no horrific issues are encountered, a stable release will follow sometime in **August 2020**.
 
 If you encounter bugs or want to provide any other feedback, please [create a new issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues) as soon as possible.  Otherwise, I'll see you again in a few weeks with an official 8.0 release announcement!
 
@@ -35,9 +37,9 @@ If you encounter bugs or want to provide any other feedback, please [create a ne
 
 In no particular order, here's some of the new stuff available in PhotoDemon 8.0.  Where applicable, I've tried to link each update to its relevant commit and/or feature request page on [GitHub](https://github.com/tannerhelland/PhotoDemon) or [Patreon](https://www.patreon.com/photodemon), or where applicable, an explanation of the feature somewhere like Wikipedia.
 
-**Note**: this page contains animated images.  These animations are supported by all major mobile and desktop browsers, but if you're using an old browser (including Internet Explorer, which should [no longer be used](https://en.wikipedia.org/wiki/Internet_Explorer#End_of_life)), you may not see the animations.  Switch to a modern browser like Edge, Firefox, Safari or Chrome!
+**Note**: this page contains animated images.  These animations are supported by all major mobile and desktop browsers, but if you're using an old browser (like Internet Explorer, [which should no longer be used](https://en.wikipedia.org/wiki/Internet_Explorer#End_of_life)), you may not see the animations.  Switch to a modern browser like Edge, Firefox, Safari or Chrome to see this page in its full glory!
 
-First up, **Clone and Pattern stamp brushes** are now available!  I've [already written about these at-length](2020/01/31/new-clone-and-pattern-brushes), so check out that article for more details, but as a quick summary, a clone brush allows you to "paint" with a brush that's copied from one or more other images.  You can use this to remove blemishes from an image (by using an un-blemished region as the brush's source), or you can use it to paint various patterns, as in the sample animation below.  The new tools support brushes up to 1,000 pixels in size, and the usual range of brush features (including edge softness, opacity, blend mode, and more) are fully supported.
+First up, **Clone and Pattern stamp brushes** are now available.  I've [already written about these at-length](2020/01/31/new-clone-and-pattern-brushes), so visit that article for more details, but as a quick summary, a clone brush allows you to "paint" with a brush that's copied from one or more other images.  You can use this to remove blemishes from an image (by using an un-blemished region as the brush's source), or you can use it to paint various patterns, as in the sample animation below.  The new tools support brushes up to 1,000 pixels in size, and the usual range of brush features (including edge softness, opacity, blend mode, and more) are fully supported.
 
 ![screen-capture](media/images/pattern_brush.png)
 
@@ -135,8 +137,8 @@ Oh boy, this list of changes is already insanely long, but my list of improvemen
 
 ## In conclusion
 
-I can't thank you enough for sticking with me through the past 2.5 years since PhotoDemon 7.0 released.  During PhotoDemon 8.0's development cycle, I've become a father, survived a pandemic (well, at least so far), replaced both a failed hard-drive and failed power supply on my aging development PC (thank goodness for backups), started a Patreon initiative to support ongoing PhotoDemon development, and consistently missed my goal of providing you with regular updates.  I'll try to do better with PhotoDemon 9.0... but yikes, maybe I should just focus on getting 8.0 out the door first.  :)
+I can't thank you enough for sticking with me through the past 2.5 years.  During PhotoDemon 8.0's development cycle, I've become a father, survived a pandemic (well, at least so far), replaced both a failed hard-drive and failed power supply on my aging development PC (thank goodness for backups), [started a Patreon initiative to support PhotoDemon's ongoing development](https://www.patreon.com/photodemon), and consistently missed my goal of providing you with regular updates.  I'll try to do better with PhotoDemon 9.0... but first, maybe I should just focus on getting 8.0 out the door.  ;)
 
-If you have any questions, comments, or feedback on this 8.0 beta, [please let me know](about/).  I am so grateful to everyone who contributed to this release, whether through Patreon, through GitHub, or by just sending me good old-fashioned emails.  A full list of contributors to this release is available on [the Contributors page](contributors/), or in the **Help > About menu** of PhotoDemon itself.
+If you have any questions, comments, or feedback on this 8.0 beta, [please let me know](about/).  I am so grateful to everyone who contributed to this release, whether through Patreon, GitHub, or by sending good old-fashioned emails.  A full list of contributors to this release is available on [the Contributors page](contributors/), or in the **Help > About menu** of PhotoDemon itself.
 
-Please let me know how the 8.0 beta works for you, and best wishes for a happy rest of your summer!
+Please let me know how the 8.0 beta works for you, and best wishes for a happy and healthy rest of your summer.

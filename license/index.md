@@ -10,7 +10,7 @@ redirect_from:
 
 ## License overview
 
-PhotoDemon is Copyright © 2018 by Tanner Helland and Contributors.
+PhotoDemon is Copyright © 2020 by Tanner Helland and Contributors.
 
 PhotoDemon is released under a BSD license.  A full copy of the BSD license is included below.
 
@@ -24,11 +24,11 @@ The full text of licenses for PhotoDemon and bundled third-party libraries follo
 + [ExifTool license]({{ site.baseurl }}{{ page.url }}#exiftool-license)
 + [EZTwain license]({{ site.baseurl }}{{ page.url }}#eztwain-license)
 + [FreeImage license]({{ site.baseurl }}{{ page.url }}#freeimage-license)
++ [libdeflate license]({{ site.baseurl }}{{ page.url }}#libdeflate-license)
 + [LittleCMS license]({{ site.baseurl }}{{ page.url }}#littlecms-license)
 + [LZ4 license]({{ site.baseurl }}{{ page.url }}#lz4-license)
 + [OptiPNG license]({{ site.baseurl }}{{ page.url }}#optipng-license)
 + [Pngquant license]({{ site.baseurl }}{{ page.url }}#pngquant-license)
-+ [zLib license]({{ site.baseurl }}{{ page.url }}#zlib-license)
 + [ZStandard license]({{ site.baseurl }}{{ page.url }}#zstandard-license)
 
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ The full text of licenses for PhotoDemon and bundled third-party libraries follo
 <a name="photodemon-license"></a>
 ## PhotoDemon license (BSD)
 
-PhotoDemon is Copyright (c) 2018, Tanner Helland and Contributors.
+PhotoDemon is Copyright (c) 2020, Tanner Helland and Contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -334,10 +334,23 @@ Software distributed under the License is distributed on an “AS IS” basis, W
 
 ------------------------------------------------------------------------
 
+<a name="libdeflate-license"></a>
+## libdeflate library (MIT) 
+
+Copyright 2016 Eric Biggers
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------------------
+
 <a name="littlecms-license"></a>
 ## LittleCMS library (MIT) 
 
-Copyright 2017 Marti Maria
+Copyright 2020 Marti Maria
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -1085,35 +1098,6 @@ pngquant.c and rwpng.c/h:
    CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
    OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-------------------------------------------------------------------------
-
-<a name="zlib-license"></a>
-## zLib license (zLib) 
-
-zlib.h — interface of the ‘zlib’ general purpose compression library
-version 1.2.8, April 28th, 2013
-
-Copyright (C) 1995-2013 Jean-loup Gailly and Mark Adler
-
-This software is provided ‘as-is’, without any express or implied
-warranty. In no event will the authors be held liable for any damages
-arising from the use of this software.
-
-Permission is granted to anyone to use this software for any purpose,
-including commercial applications, and to alter it and redistribute it
-freely, subject to the following restrictions:
-
-1. The origin of this software must not be misrepresented; you must not
-claim that you wrote the original software. If you use this software
-in a product, an acknowledgment in the product documentation would be
-appreciated but is not required.
-2. Altered source versions must be plainly marked as such, and must not be
-misrepresented as being the original software.
-3. This notice may not be removed or altered from any source distribution.
-
-Jean-loup Gailly Mark Adler
-jloup@gzip.org madler@alumni.caltech.edu
 
 ------------------------------------------------------------------------
 
