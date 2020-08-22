@@ -7,11 +7,7 @@ title: Home
 Download
 --------
 
-After 2.5 years of work, [a new PhotoDemon release is imminent](2020/07/28/photodemon-8-0-beta).  Please consider trying the 8.0 beta.
-
-New 8.0 beta release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0-beta.1/PhotoDemon-8.0-beta.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.0-beta-1 (zip file, 13.6 mb)</a>**<br />
-
-Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v7.0.1/PhotoDemon_7.0.1.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 7.0.1 (zip file, 12.1 mb)</a>**<br />
+Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0/PhotoDemon-8.0.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.0 (zip file, 13.6 mb)</a>**<br />
 
 For additional downloads, including nightly builds and checksums, [visit the download page](download/).
 
@@ -30,7 +26,7 @@ PhotoDemon does not require installation, administrator rights, or Internet acce
 
 <img src="media/Weight-Lifting-48.png" alt="Power" srcset="media/Weight-Lifting-96.png 2x" /> **Power**
 
-The current build provides more than 200 professional-grade tools, including digital darkroom essentials like shadow/highlight recovery, multi-channel curves, content-aware resizing, and HDR.
+The current build provides more than 200 professional-grade tools, including digital darkroom essentials like shadow/highlight recovery, multi-channel curves, content-aware resizing, and full support for Adobe Photoshop (PSD) files.  
 
 <img src="media/Touch-Screen-48.png" alt="Usability" srcset="media/Touch-Screen-96.png 2x" /> **Usability**
 
