@@ -7,7 +7,7 @@ title: Download
 Stable
 -------------------
 
-**Version 8.0 is the latest stable release.**  [See what's new in this release](2020/08/21/photodemon-8-0).
+**Version 8.0 is the latest stable release.**  [See what's new in this release](2020/08/21/photodemon-8-0.html).
 
 **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0/PhotoDemon-8.0.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 8.0 (zip file, 13.6 mb)</a>**<br />
 
