@@ -11,6 +11,6 @@ No matter how much I test a new stable release, a few bugs always manage to slip
 
 Nightly builds include a number of other minor bug fixes, and I'm also working on a few usability improvements that weren't quite ready in time for the initial 8.0 release.  Thank you to everyone who's shared feedback with me!  Your comments are an invaluable part of improving the program for everyone.
 
-Because I'm eager to ship these bug-fixes as soon as possible, 8.0.1 won't have a beta before it releases.  So if you've encountered any problems, or you have any issues you'd like to see addressed, [please get in touch now](contact/).  I want to add as many improvements and fixes as I can before the update goes live.
+Because I'm eager to ship these bug-fixes as soon as possible, 8.0.1 won't have a beta before it releases.  So if you've encountered any problems, or you have any issues you'd like to see addressed, [please get in touch now](about/).  I want to add as many improvements and fixes as I can before the update goes live.
 
 Thank you for using PhotoDemon, and thank you for your patience as I finish up work on 8.0.1.
