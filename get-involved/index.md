@@ -17,18 +17,16 @@ PhotoDemon is a huge project, and while I try my best to keep it error-free, bug
 
 If you do encounter an issue, please [submit an issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues).
 
-### Write code
-
-PhotoDemon is written in Visual Basic 6.0.  Developers with VB6 experience can [submit pull requests directly](https://github.com/tannerhelland/PhotoDemon/pulls), while developers in other languages can submit their work by [creating a new issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues).
-
 ### Translate
 
 PhotoDemon ships with a dedicated Language Editor that makes translations fast and painless.  In fact, new translators can often complete a full translation of the program within several hours!
 
 If you have any questions about the translation process, feel free to [create a new issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues) so I can walk you through the process.
 
+### Write code
+
+PhotoDemon is written in Visual Basic 6.0.  Developers with VB6 experience can [submit pull requests directly](https://github.com/tannerhelland/PhotoDemon/pulls), while developers in other languages can submit their work by [creating a new issue on GitHub](https://github.com/tannerhelland/PhotoDemon/issues).
+
 ### Donate
 
-PhotoDemon is developed and maintained by a single individual (with a family to support).  Ongoing development is primarily funded by our ongoing Patreon campaign, but we also accept one-time donations through our [donation page](donate/).  **Thank you in advance!**
-
-*(While I can’t make any promises, I do try to give extra attention to feature requests from people who donate.)*
+PhotoDemon is developed and maintained by a single individual (with a family to support).  Ongoing development is primarily funded by my ongoing Patreon campaign, but I also accept one-time donations through this [donation page](donate/).  **Thank you so much to everyone who donates!**
