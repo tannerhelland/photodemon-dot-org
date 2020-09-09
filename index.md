@@ -7,7 +7,7 @@ title: Home
 Download
 --------
 
-Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0/PhotoDemon-8.0.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.0 (zip file, 13.6 mb)</a>**<br />
+Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.2/PhotoDemon-8.2.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.2 (zip file, 12.5 mb)</a>**<br />
 
 For additional downloads, including nightly builds and checksums, [visit the download page](download/).
 
@@ -39,4 +39,4 @@ PhotoDemon comes with a built-in **macro recorder** and **batch processor**.  It
 
 **All Windows versions (XP through Windows 10) are fully supported.**  
 
-**20+ language translations are currently available.**  If your language is missing, please <a href="https://github.com/tannerhelland/PhotoDemon/issues">let me know</a>.
+**PhotoDemon is available in 10+ langauges.**  If your language is missing, <a href="https://github.com/tannerhelland/PhotoDemon/issues">please get in touch</a>.  I'd love to add support for it!

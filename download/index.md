@@ -7,16 +7,16 @@ title: Download
 Stable
 -------------------
 
-**Version 8.0 is the latest stable release.**  [See what's new in this release](2020/08/21/photodemon-8-0.html).
+**Version 8.2 is the latest stable release.**  [See what's new in this release](2020/09/09/photodemon-8-2.html).
 
-**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.0/PhotoDemon-8.0.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 8.0 (zip file, 13.6 mb)</a>**<br />
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.2/PhotoDemon-8.2.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 8.2 (zip file, 12.5 mb)</a>**<br />
 
 Zip file checksums:
 
-CRC-32: 23b1b695<br />
-MD5: cd22cb287a8f0a14676292b3a8a5e3df<br />
-SHA-1: 15e8eb0ef2e6f56300fcf092f98e34d494609867<br />
-SHA-256: fd4c524e6910a349cd5c922bdd216b3815be6678f33c33ea35d9f39cba34c670<br />
+CRC-32: d0f93dbc<br />
+MD5: e672140a1e8ba69c900bda787acc0abb<br />
+SHA-1: 5e5707516bb28944e0711d6bd1d5e88e59033933<br />
+SHA-256: fe61080a9368621f69474da757a16be12abe7f9ec8d6dbaf3a768cfbb3fa375d<br />
 
 PhotoDemon is 100% free.  You are welcome to use and distribute it however you like, but like most free software, it is completely "use at your own risk".  For additional details, please review [the license page](license/#photodemon-license).
 
@@ -29,7 +29,7 @@ Every night, a new build is automatically created from the latest PhotoDemon sou
 
 **Use at your own risk.**
 
-<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 13.8 mb)</a>
+<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, 13.0 mb)</a>
 
 Source code
 ------------------
