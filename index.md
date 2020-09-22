@@ -7,7 +7,7 @@ title: Home
 Download
 --------
 
-Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.2/PhotoDemon-8.2.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.2 (zip file, 12.5 mb)</a>**<br />
+Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.4/PhotoDemon-8.4.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 8.4 (zip file, 12.5 mb)</a>**<br />
 
 For additional downloads, including nightly builds and checksums, [visit the download page](download/).
 
@@ -35,8 +35,8 @@ An elegant interface built by designers - not engineers - gets out of the way an
 Other cool stuff
 ----------------
 
-PhotoDemon comes with a built-in **macro recorder** and **batch processor**.  Its UI is **fully themable**, with built-in light, dark, and monochrome themes.  All tools support real-time previews, custom presets, keyboard nav, and unlimited Undo/Redo.
+PhotoDemon comes with a built-in **macro recorder** and **batch processor**.  Its UI is **fully themable**, with built-in light, dark, and monochrome themes.  All tools support real-time previews, custom presets, keyboard navigation, and unlimited Undo/Redo.
 
 **All Windows versions (XP through Windows 10) are fully supported.**  
 
-**PhotoDemon is available in 10+ langauges.**  If your language is missing, <a href="https://github.com/tannerhelland/PhotoDemon/issues">please get in touch</a>.  I'd love to add support for it!
+**PhotoDemon is available in many languages.**  If your language is missing, <a href="https://photodemon.org/about/contact/">please get in touch</a>.  I would love to support it!

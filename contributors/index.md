@@ -20,6 +20,10 @@ Super Patrons:
 * Jessica H
 * Johannes Nendel
 
+Patrons:
+
+* James Proctor
+
 ### 3rd-party libraries
 
 The current PhotoDemon build uses these 3rd-party libraries.  Thank you to these developers for freely sharing their work.  
@@ -65,7 +69,7 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * Francis DC
 * [Frank Donckers](http://www.planetsourcecode.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=1&blnAuthorSearch=TRUE&lngAuthorId=2213335741)
 * [Frans van Beers](https://plus.google.com/+FransvanBeers/)
-* [Gerry Busch](http://gbusch.altervista.org/)
+* [Gerry Busch](http://gerrybusch.altervista.org/)
 * [Giorgio "Gibra" Brausi](http://nuke.vbcorner.net)
 * [GioRock](http://www.planet-source-code.com/vb/scripts/BrowseCategoryOrSearchResults.asp?lngWId=1&blnAuthorSearch=TRUE&lngAuthorId=77440558266)
 * [Google Translate](http://translate.google.com)
