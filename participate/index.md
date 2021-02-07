@@ -1,9 +1,12 @@
 ---
 author: tanner_h
 layout: page
-slug: get-involved
-title: Get Involved
+slug: participate
+title: Participate
+redirect_from: get-involved
 ---
+
+## Participate in PhotoDemon development
 
 PhotoDemon would not be possible without the help of [countless awesome contributors](contributors/).  I'd love to add your name to the list.
 
