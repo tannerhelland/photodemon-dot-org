@@ -3,7 +3,8 @@ author: tanner_h
 layout: page
 slug: participate
 title: Participate
-redirect_from: get-involved
+redirect_from: 
+  - /get-involved
 ---
 
 ## Participate in PhotoDemon development
