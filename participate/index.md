@@ -5,6 +5,7 @@ slug: participate
 title: Participate
 redirect_from: 
   - /get-involved
+  - /get-involved/
 ---
 
 ## Participate in PhotoDemon development
