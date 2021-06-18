@@ -23,6 +23,7 @@ Super Patrons:
 Patrons:
 
 * James Proctor
+* Jim Schmidt
 
 ### 3rd-party libraries
 
