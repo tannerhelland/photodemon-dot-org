@@ -10,7 +10,7 @@ redirect_from:
 
 ## License overview
 
-PhotoDemon is Copyright © 2020 by Tanner Helland and Contributors.
+PhotoDemon is Copyright © 2022 by Tanner Helland and Contributors.
 
 PhotoDemon is released under a BSD license.  A full copy of the BSD license is included below.
 
@@ -36,7 +36,7 @@ The full text of licenses for PhotoDemon and bundled third-party libraries follo
 <a name="photodemon-license"></a>
 ## PhotoDemon license (BSD)
 
-PhotoDemon is Copyright (c) 2020, Tanner Helland and Contributors.
+PhotoDemon is Copyright (c) 2022, Tanner Helland and Contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -350,7 +350,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <a name="littlecms-license"></a>
 ## LittleCMS library (MIT) 
 
-Copyright 2020 Marti Maria
+Copyright 2022 Marti Maria
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -364,7 +364,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## LZ4 license (simplified BSD) 
 
 LZ4 Library
-Copyright (c) 2011-2016, Yann Collet
+Copyright (c) 2011-2020, Yann Collet
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

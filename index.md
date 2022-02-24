@@ -37,6 +37,6 @@ Other cool stuff
 
 PhotoDemon comes with a built-in **macro recorder** and **batch processor**.  Its UI is **fully themable**, with built-in light, dark, and monochrome themes.  All tools support real-time previews, custom presets, keyboard navigation, and unlimited Undo/Redo.
 
-**All Windows versions (XP through Windows 10) are fully supported.**  
+**All Windows versions (XP through Windows 11) are fully supported.**  
 
 **PhotoDemon is available in many languages.**  If your language is missing, <a href="https://photodemon.org/about/contact/">please get in touch</a>.  I would love to support it!
