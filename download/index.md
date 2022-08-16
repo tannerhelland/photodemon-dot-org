@@ -7,7 +7,17 @@ title: Download
 Stable
 -------------------
 
-**Version 8.4 is the latest stable release.**  [See what's new in this release](2020/09/22/photodemon-8-4.html).
+**A new stable version is almost here.**  
+
+The PhotoDemon 9.0 beta is now available.  Please consider downloading it and [sharing your feedback](about/).  
+
+[Version 9.0 brings many exciting improvements](2022/08/15/photodemon-9-0-beta.html), including an improved user interface, new effects and adjustments, expanded image file support, and improved performance and stability.
+
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v9.0-beta.1/PhotoDemon-9.0-beta.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 9.0 beta (zip file, 14.3 mb)</a>**<br />
+
+I expect to make 9.0 the new stable release sometime in **September 2022**, pending user feedback.  Until then, if you'd still like to download the old 8.4 release, keep reading.
+
+For a few more days, **version 8.4 remains the latest stable release.**  [See what's new in this release](2020/09/22/photodemon-8-4.html).
 
 **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v8.4/PhotoDemon-8.4.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 8.4 (zip file, 12.5 mb)</a>**<br />
 
