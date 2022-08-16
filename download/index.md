@@ -50,4 +50,4 @@ For best results, clone or fork the full PhotoDemon repository using a tool like
 
 You can also download the latest source code as a ZIP file by clicking the green **"Code"** button, then selecting **"Download ZIP"**
 
-Once you've obtained PhotoDemon's source code, you can build PhotoDemon.exe in just three mouse-clicks.  [Full build instructions are available at GitHub](https://github.com/tannerhelland/PhotoDemon/blob/master/INSTALL.md).
+Once you've obtained PhotoDemon's source code, you can build PhotoDemon.exe in just three mouse-clicks.  [Full build instructions are available at GitHub](https://github.com/tannerhelland/PhotoDemon/blob/main/INSTALL.md).

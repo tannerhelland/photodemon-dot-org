@@ -277,7 +277,7 @@ It would take too long to discuss every new feature at this same level of detail
 
 ### Other
 
-For a full list of changes, [visit the project's commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).
+For a full list of changes, [visit the project's commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 ## Stable release
 

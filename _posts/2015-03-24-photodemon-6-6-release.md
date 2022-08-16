@@ -33,7 +33,7 @@ You can find [a full write-up (with images) here](2015/03/12/photodemon-6-6-beta
   * New **Fit Image, Fit Width, and Fit Height "smart zoom" options**.
   * Many other bug-fixes, performance, and accuracy improvements throughout the program
 
-For a full list of this version's bug-fixes, performance improvements, and tool enhancements, please visit [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).
+For a full list of this version's bug-fixes, performance improvements, and tool enhancements, please visit [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 ## Enjoy!
 

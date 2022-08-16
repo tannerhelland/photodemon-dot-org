@@ -108,7 +108,7 @@ First, remember that PhotoDemon is 100% portable.  It does not need to be instal
 
 Similarly, PhotoDemon never requires administrative rights, so - like most software - you should always use it from inside a non-administrator account.  This provides a system-level failsafe against dangerous behavior.
 
-And let's not forget the coolest thing about open-source projects - that you can review their source code yourself!  There is (literally) nothing to hide in an open-source project like PhotoDemon.  Here is its master source code link:
+And let's not forget the coolest thing about open-source projects - that you can review their source code yourself!  There is (literally) nothing to hide in an open-source project like PhotoDemon.  Here is a link to its full source code:
 
 [https://github.com/tannerhelland/PhotoDemon](https://github.com/tannerhelland/PhotoDemon)
 

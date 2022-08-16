@@ -104,6 +104,6 @@ When you run PhotoDemon for the first time, it now checks for this situation and
 
 ## In conclusion
 
-It's impossible to cover all miscellaneous updates in a single article, so for the truly curious, you may want to visit [PhotoDemon's lengthy commit log](https://github.com/tannerhelland/PhotoDemon/commits/master) for this release.  That link provides a full list of all changes and improvements, including the gritty technical details of everything mentioned here.
+It's impossible to cover all miscellaneous updates in a single article, so for the truly curious, you may want to visit [PhotoDemon's lengthy commit log](https://github.com/tannerhelland/PhotoDemon/commits/main) for this release.  That link provides a full list of all changes and improvements, including the gritty technical details of everything mentioned here.
 
 [Return to the main PhotoDemon 7.0 release announcement](2017/11/28/photodemon-7-0-release)

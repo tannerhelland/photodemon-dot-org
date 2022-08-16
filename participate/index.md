@@ -12,7 +12,7 @@ redirect_from:
 
 PhotoDemon would not be possible without the help of [countless awesome contributors](contributors/).  I'd love to add your name to the list.
 
-Whether you're a developer, designer, translator, or someone with a good idea, the only requirement for participation is reading [PhotoDemon's Contributor Code of Conduct](https://github.com/tannerhelland/PhotoDemon/blob/master/CODE_OF_CONDUCT.md) and agreeing to abide by its terms.  Once you've done that, consider yourself part of the team!
+Whether you're a developer, designer, translator, or someone with a good idea, the only requirement for participation is reading [PhotoDemon's Contributor Code of Conduct](https://github.com/tannerhelland/PhotoDemon/blob/main/CODE_OF_CONDUCT.md) and agreeing to abide by its terms.  Once you've done that, consider yourself part of the team!
 
 In no particular order, here are some of the most popular ways to help.
 

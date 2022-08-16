@@ -65,7 +65,7 @@ This 6.0 release represents six months of hard work from a variety of contributo
 
   * <del>Some hotkeys don't fire unless the main form is first clicked.  This is a known problem with VB, and will _hopefully_ be fixed by release.</del>  Fixed!
 
-  * <del>Master language file is missing a few minor text entries.  This will be fixed by release.</del>  Fixed!
+  * <del>Main en-US language file is missing a few minor text entries.  This will be fixed by release.</del>  Fixed!
 
 The beta version was released before these bugs items were fixed.  Developers can download updated source code, with these fixes, [from GitHub](https://github.com/tannerhelland/PhotoDemon).
 

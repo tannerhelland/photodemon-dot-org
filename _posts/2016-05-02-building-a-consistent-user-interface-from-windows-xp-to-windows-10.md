@@ -126,6 +126,6 @@ Controls like this are much easier to produce with the new interface toolkit, be
 
 I'm terrible at providing regular updates here on the PhotoDemon website, and for that I apologize.  It's difficult to find time to write meaningful progress updates, and what little time I do find is usually spent working on PhotoDemon itself.
 
-Of course, if you [follow PhotoDemon's development on GitHub](https://github.com/tannerhelland/PhotoDemon/commits/master), you know that interesting new features arrive every day.  As usual, this article just covers the tip of the iceberg with what's coming in the next release, but because this new interface toolkit has taken up so much development time, I thought it warranted a more detailed discussion.
+Of course, if you [follow PhotoDemon's development on GitHub](https://github.com/tannerhelland/PhotoDemon/commits/main), you know that interesting new features arrive every day.  As usual, this article just covers the tip of the iceberg with what's coming in the next release, but because this new interface toolkit has taken up so much development time, I thought it warranted a more detailed discussion.
 
 As always, thank you to everyone [who donates to PhotoDemon's development](donate/).  Every donation, however small, means that much more time I can spend working on the program, so my sincerest **thank you** to everyone who's contributed.  PhotoDemon wouldn't be possible without you!

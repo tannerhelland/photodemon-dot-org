@@ -34,7 +34,7 @@ For those upgrading directly from version 6.2, you're going to find a lot of imp
   * **Improvements to Content-Aware resizing**, including faster performance, symmetrical seam removal, and ESC-to-cancel functionality
   * **Improved image load time**, especially for large images and/or complex image formats
 
-For a full list of this version's bug-fixes, performance improvements, and tool enhancements, please visit [PhotoDemon's commit log.](https://github.com/tannerhelland/PhotoDemon/commits/master)
+For a full list of this version's bug-fixes, performance improvements, and tool enhancements, please visit [PhotoDemon's commit log.](https://github.com/tannerhelland/PhotoDemon/commits/main)
 
 ## Known bugs
 

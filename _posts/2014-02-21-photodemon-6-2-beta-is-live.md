@@ -181,7 +181,7 @@ Individual program windows can now be selected from a list, with or without thei
 
   * When reducing a semi-transparent image to 8bpp (e.g. GIFs), you can now choose any background color for compositing semi-transparent pixels.
 
-  * As always, there are many more miscellaneous bug-fixes, performance improvements, and tool enhancements.  For a detailed list of updates since 6.0, please visit [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).
+  * As always, there are many more miscellaneous bug-fixes, performance improvements, and tool enhancements.  For a detailed list of updates since 6.0, please visit [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 ## Known bugs
 

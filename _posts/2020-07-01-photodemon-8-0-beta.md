@@ -133,7 +133,7 @@ Various improvements have been made to **running PhotoDemon on OSX and Linux via
 
 As part of a new initiative to make PhotoDemon as stable as possible, [**debug logging now auto-activates** whenever a program crash is detected](https://github.com/tannerhelland/PhotoDemon/commit/50cb4c85d2982feb4ab4c46d4f033c2ac73c78ee).  You can always [send those debug logs directly to me](https://photodemon.org/about/) to help solve any problems you encounter.
 
-Oh boy, this list of changes is already insanely long, but my list of improvements still has another 50+ items listed.  Rather than continue detailing various changes, let me just refer interested parties to [PhotoDemon's commit history](https://github.com/tannerhelland/PhotoDemon/commits/master).  It contains a list of all 1,000+ changes since the last stable release!
+Oh boy, this list of changes is already insanely long, but my list of improvements still has another 50+ items listed.  Rather than continue detailing various changes, let me just refer interested parties to [PhotoDemon's commit history](https://github.com/tannerhelland/PhotoDemon/commits/main).  It contains a list of all 1,000+ changes since the last stable release!
 
 ## In conclusion
 

@@ -127,19 +127,19 @@ As such, many new libraries and engines were developed over the course of 7.0.  
 
 ![media/images/import/pdRandomize-570x329.png](media/images/import/pdRandomize.png)
 
-All effects that use random number generation (like the Stained Glass filter, above) now use a shared [randomization engine](https://github.com/tannerhelland/PhotoDemon/blob/master/Classes/pdRandomize.cls), with support for several different random number generation methods, and highly optimized functions for special features like gaussian-distributed random numbers.
+All effects that use random number generation (like the Stained Glass filter, above) now use a shared [randomization engine](https://github.com/tannerhelland/PhotoDemon/blob/main/Classes/pdRandomize.cls), with support for several different random number generation methods, and highly optimized functions for special features like gaussian-distributed random numbers.
 
 ![media/images/import/pdFloodFill-570x397.png](media/images/import/pdFloodFill.png)
 
-A [high-speed region analyzer](https://github.com/tannerhelland/PhotoDemon/blob/master/Classes/pdFloodFill.cls) provides the backbone of two different on-canvas tools: the bucket fill and magic wand tools.  This engine made it possible to finally add a traditional "marching ants" outline mode to PhotoDemon's selection tools.
+A [high-speed region analyzer](https://github.com/tannerhelland/PhotoDemon/blob/main/Classes/pdFloodFill.cls) provides the backbone of two different on-canvas tools: the bucket fill and magic wand tools.  This engine made it possible to finally add a traditional "marching ants" outline mode to PhotoDemon's selection tools.
 
 ![media/images/import/pdNoise-570x327.png](media/images/import/pdNoise.png)
 
-Noise generation is the backbone of a wide variety of filters, including everything from the "Artistic > Figured Glass" effect to the new "Nature > Lava" effect shown above.  PhotoDemon now has a powerful [noise engine](https://github.com/tannerhelland/PhotoDemon/blob/master/Classes/pdNoise.cls) capable of producing [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise), [Simplex Noise](https://en.wikipedia.org/wiki/Simplex_noise), and [OpenSimplex Noise](https://en.wikipedia.org/wiki/OpenSimplex_noise).  Performance improvements to the noise generator allowed me to speed up filters like the "Nature > Fog" effect by more than 400%. 
+Noise generation is the backbone of a wide variety of filters, including everything from the "Artistic > Figured Glass" effect to the new "Nature > Lava" effect shown above.  PhotoDemon now has a powerful [noise engine](https://github.com/tannerhelland/PhotoDemon/blob/main/Classes/pdNoise.cls) capable of producing [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise), [Simplex Noise](https://en.wikipedia.org/wiki/Simplex_noise), and [OpenSimplex Noise](https://en.wikipedia.org/wiki/OpenSimplex_noise).  Performance improvements to the noise generator allowed me to speed up filters like the "Nature > Fog" effect by more than 400%. 
 
 ![media/images/import/pdPixelIterator-570x328.png](media/images/import/pdPixelIterator.png)
 
-Sliding-window pixel iteration is required by many tools that support a "radius" parameter, like median filtering.  A new [pixel iterator class](https://github.com/tannerhelland/PhotoDemon/blob/master/Classes/pdPixelIterator.cls) allowed me to cut a ton of redundant code from the project, while also improving performance and adding support for "circular" windows.  If you encounter a tool that offers "square" vs "circular" radius options, the new iterator engine is the one handling this.
+Sliding-window pixel iteration is required by many tools that support a "radius" parameter, like median filtering.  A new [pixel iterator class](https://github.com/tannerhelland/PhotoDemon/blob/main/Classes/pdPixelIterator.cls) allowed me to cut a ton of redundant code from the project, while also improving performance and adding support for "circular" windows.  If you encounter a tool that offers "square" vs "circular" radius options, the new iterator engine is the one handling this.
 
 These are just a handful of the 20+ engines written for various PhotoDemon features in the 7.0 release.  Many of these engines are already being used to develop exciting new paint tools and effects, and thanks to them, the wait for a post-7.0 release will be _much_ shorter.
 

@@ -307,7 +307,7 @@ As an additional convenience, I have also added options for fitting the image by
 
 
 
-Rather than bore you with an additional list of updates, let me just refer curious individuals to [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).  That link provides an excruciatingly detailed look at everything that's been updated.
+Rather than bore you with an additional list of updates, let me just refer curious individuals to [PhotoDemon's commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).  That link provides an excruciatingly detailed look at everything that's been updated.
 
 
 

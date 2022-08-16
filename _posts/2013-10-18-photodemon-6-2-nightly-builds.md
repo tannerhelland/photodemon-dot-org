@@ -19,6 +19,6 @@ Finally, here are a few things to note about nightly builds:
 
   * Nightly builds may have bugs or general instability.  If you do find any bugs, make sure to report them via [the contact page](about/contact/), or [via GitHub](https://github.com/tannerhelland/PhotoDemon/issues) if you're a developer.  Thank you!
 
-  * If you want to know what's new since the last nightly build, please visit the official [commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).
+  * If you want to know what's new since the last nightly build, please visit the official [commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 The biggest change since version 6.0 is a host of new interface options, including a dedicated TDI, or tabbed document interface, similar to a web browser.  Options are also available for floating or docking toolbars, and floating or docking windows, which should allow you to customize PhotoDemon's interface to operate like any other major photo editor.

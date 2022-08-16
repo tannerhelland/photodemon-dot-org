@@ -77,6 +77,6 @@ All Adjustment and Effect tools support the new selection types, and as with the
 
 ## Much more to come
 
-Eagle-eyed readers may notice a number of other significant changes in the above screenshots, but I'll leave discussion of version 6.6's many other new features for future articles.  For now, know that you can play with version 6.6's new features by [downloading the latest nightly build](download/).  Coders are also welcome to peruse the latest source code on [PhotoDemon's GitHub page](https://github.com/tannerhelland/PhotoDemon), or view a detailed list of changes via [PhotoDemon's always up-to-date commit log](https://github.com/tannerhelland/PhotoDemon/commits/master).
+Eagle-eyed readers may notice a number of other significant changes in the above screenshots, but I'll leave discussion of version 6.6's many other new features for future articles.  For now, know that you can play with version 6.6's new features by [downloading the latest nightly build](download/).  Coders are also welcome to peruse the latest source code on [PhotoDemon's GitHub page](https://github.com/tannerhelland/PhotoDemon), or view a detailed list of changes via [PhotoDemon's always up-to-date commit log](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 In the coming weeks, I'll be previewing some of the other great new features slated for 6.6's.  Many thanks to all those who have contributed to version 6.6 so far, and if you have any suggestions after reading this article (or playing with the development build), please [get in touch](about/contact/)!

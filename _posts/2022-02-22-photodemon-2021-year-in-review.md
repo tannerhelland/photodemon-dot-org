@@ -9,7 +9,7 @@ excerpt: 2021 was an exciting year for PhotoDemon.  Here's a list of all the new
 
 Hello, friends.  You haven't heard much from me during the past year, but that's only because I was hard at work on the next version of PhotoDemon!  
 
-I thought it might be fun to share all the new features that arrived in PhotoDemon during 2021.  You may have seen some of these improvements if you [follow PhotoDemon's development over at GitHub](https://github.com/tannerhelland/PhotoDemon/commits/master), but if not, you're in for a treat.
+I thought it might be fun to share all the new features that arrived in PhotoDemon during 2021.  You may have seen some of these improvements if you [follow PhotoDemon's development over at GitHub](https://github.com/tannerhelland/PhotoDemon/commits/main), but if not, you're in for a treat.
 
 As always, you can play with these new features today by [downloading the latest PhotoDemon nightly build](download/#nightly).  Otherwise, these features will be available in a 9.0 stable release sometime later this year.
 
@@ -167,7 +167,7 @@ Unfortunately, Photoshop plugins vary widely in quality and reliability, so you 
 
 ### That's still not everything, but I'm getting tired...
 
-For a full list of changes, including many more minor improvements and bug-fixes, [visit the project's commit log at GitHub](https://github.com/tannerhelland/PhotoDemon/commits/master).
+For a full list of changes, including many more minor improvements and bug-fixes, [visit the project's commit log at GitHub](https://github.com/tannerhelland/PhotoDemon/commits/main).
 
 ## Special thanks
 
