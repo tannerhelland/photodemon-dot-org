@@ -8,7 +8,7 @@ title: Donate
 
 **PhotoDemon will always be 100% free.**
 
-This is possible thanks to generous donations from users like you.  Please consider a small donation to support ongoing development.
+This is possible thanks to generous donations from users like you.  Thank you ❤️
 
 1. [Donate fee-free via Ko-Fi]({{ site.baseurl }}{{ page.url }}#donate-kofi)
 2. [Join our Patreon campaign]({{ site.baseurl }}{{ page.url }}#donate-patreon)
@@ -16,7 +16,7 @@ This is possible thanks to generous donations from users like you.  Please consi
 
 <a name="donate-kofi"></a>
 ## Fee-free donations through Ko-Fi
-Ko-Fi allows you to donate without extra processing fees.  Credit and debit cards are accepted, and Apple Pay is available if you access this page ([photodemon.org/donate](https://photodemon.org/donate)) from an Apple device:
+Ko-Fi processes donations without extra processing fees.  (Thank you, Ko-Fi!)  You do not need an account.  The secure form below supports credit and debit cards, or you can visit [PhotoDemon's dedicated Ko-Fi donation page](https://ko-fi.com/tannerhelland) for additional donation methods, including Apple Pay.
 
 <iframe id='kofiframe' src='https://ko-fi.com/tannerhelland/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='tannerhelland'></iframe>
 
