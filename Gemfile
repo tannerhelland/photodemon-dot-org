@@ -1,7 +1,7 @@
 # Basic gemfile for local testing of github-pages repos on Windows
 
 source 'https://rubygems.org'
-gem "github-pages", '~> 219', group: :jekyll_plugins
+gem "github-pages", '~> 227', group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
