@@ -9,7 +9,7 @@ Stable
 
 **Version 2024.7 is the latest stable release.**  [See what's new in this release](2024/07/11/photodemon-2024-7.html).
 
-**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2024.7/PhotoDemon-2024.7.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2024.7 (zip file, 14.3 mb)</a>**<br />
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2024.7/PhotoDemon-2024.7.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2024.7 (zip file, 18.5 mb)</a>**<br />
 
 Zip file checksums:
 

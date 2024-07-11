@@ -11,19 +11,16 @@ PhotoDemon is developed by [Tanner Helland](https://github.com/tannerhelland), b
 
 ### Patrons
 
-Ongoing PhotoDemon development is supported by our [awesome Patreon members](https://www.patreon.com/photodemon/overview).  Visit [PhotoDemon's Patreon page](https://www.patreon.com/photodemon/overview) to learn more about patron benefits, like [regular tutorials on new PhotoDemon features](https://www.patreon.com/photodemon/posts)!
+Ongoing development is supported by PhotoDemon's [Patreon members](https://www.patreon.com/photodemon/overview).  Thank you to everyone who supports PhotoDemon's ongoing development.
 
 Super Patrons:
 
-* [EFF.ORG](https://www.eff.org/)
-* [Jason Brown](https://statslog.com/)
-* Jessica H
 * Johannes Nendel
 
 Patrons:
 
+* Tim Parsons
 * Frank Reibold
-* James Proctor
 * Jim Schmidt
 
 ### 3rd-party libraries
@@ -36,16 +33,16 @@ The current PhotoDemon build uses these 3rd-party libraries.  Thank you to these
 * [FreeImage](https://freeimage.sourceforge.io/)
 * [libavif](https://github.com/AOMediaCodec/libavif)
 * [libdeflate](https://github.com/ebiggers/libdeflate)
+* [libjxl](https://github.com/libjxl/libjxl)
 * [libwebp](https://developers.google.com/speed/webp)
 * [LittleCMS](http://www.littlecms.com)
 * [LZ4](https://lz4.github.io/lz4/)
+* [pdfium](https://pdfium.googlesource.com/pdfium/)
 * [Photoshop-Plugin-Host](https://github.com/spetric/Photoshop-Plugin-Host)
 * [resvg](https://github.com/RazrFalcon/resvg)
 * [ZStandard](https://github.com/facebook/zstd)
 
 ### Direct contributors
-
-The current PhotoDemon release includes source code, translations, artwork, or other contributions from these individuals.  Thank you!
 
 The current PhotoDemon release includes source code, translations, artwork, or other contributions from these individuals.  Thank you!
 
@@ -55,11 +52,12 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * Allan Lima
 * [Alric Rahl](https://t.me/Alricrahl)
 * Andrew Yeoman
-* [Ari Sohandri Putra](http://arisohandrip.indonesiaz.com/)
+* [Ari Sohandri Putra](https://github.com/arisohandriputra)
 * [Avery](https://github.com/Planet-Source-Code/avery-use-gdi-aka-gdiplus-with-vb6-and-win98__1-37541)
 * [Boban Gjerasimoski](https://www.behance.net/Boban_Gjerasimoski)
 * [Bonnie West](https://github.com/Planet-Source-Code/bonnie-west-the-optimum-fileexists-function__1-74264)
 * [Carles P.V.](https://github.com/Planet-Source-Code/carles-p-v-ibmp-1-2__1-42376)
+* [Charltsing](https://www.cnblogs.com/Charltsing/)
 * ChenLin
 * [Chiahong Hong](https://github.com/ChiahongHong)
 * [Clément Mariage](https://www.medexprim.com/)
@@ -91,6 +89,7 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * [John Desrosiers](https://johndesrosiers.com)
 * [Jose de TECNORAMA](https://www.tecnorama.es/)
 * Joseph Greco
+* [Kenji Hoshimoto (Hosiken)](http://hosiken.jp/)
 * [Kroc Camen](http://camendesign.com)
 * [LaVolpe](http://www.vbforums.com/showthread.php?t=606736)
 * [Leandro Ascierto](http://leandroascierto.com/blog/clsmenuimage/)
@@ -99,6 +98,8 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * Manfredi Marceca
 * [Manuel Augusto Santos](https://github.com/Planet-Source-Code/manuel-augusto-santos-fast-graphics-filters__1-26303)
 * Mariozo
+* [martin19](https://github.com/martin19)
+* Miguel Chamorro
 * [Ming](http://ufoym.com/)
 * Mohammad Reza Karimi
 * [Nguyen Van Hùng](https://github.com/vhreal1302)
@@ -121,4 +122,5 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * [Vatterspun](https://github.com/vatterspun)
 * [Vladimir Vissoultchev](https://github.com/wqweto)
 * [Will Stampfer](https://github.com/epmatsw)
+* [Yuriy Balyuk](https://github.com/veksha)
 * [Zhu JinYong](https://github.com/Planet-Source-Code/zhu-jinyong-unicode-browseforfolder__1-73919)
