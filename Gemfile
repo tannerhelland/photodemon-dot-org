@@ -11,7 +11,7 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 # Fix listen behavior on Windows
-gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
+# gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
 # Removed from the standard library in Ruby 3.X so must add manually
 gem "webrick", "~> 1.7"

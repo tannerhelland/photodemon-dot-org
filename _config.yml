@@ -5,7 +5,8 @@ title: "PhotoDemon: the fast, free, portable photo editor"
 description: "the fast, free, portable photo editor"
 baseurl: "/"
 url: "https://photodemon.org"
-# to serve the site locally without the baseurl entry screwing things up, use "bundle exec jekyll server --baseurl ''"
+# to serve the site locally without the baseurl entry screwing things up, use "bundle exec jekyll server"
+# (the "--baseurl ''" parameter should no longer be required)
 rss: true
 show_excerpts: true
 google_analytics: UA-120545399-1
