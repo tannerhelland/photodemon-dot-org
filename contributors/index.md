@@ -15,7 +15,9 @@ Ongoing development is supported by PhotoDemon's [Patreon members](https://www.p
 
 Super Patrons:
 
+* DeltaVenue
 * Johannes Nendel
+* Refael Ackermann
 
 Patrons:
 

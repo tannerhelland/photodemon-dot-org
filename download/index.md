@@ -7,16 +7,16 @@ title: Download
 Stable
 -------------------
 
-**Version 2024.12 is the latest stable release.**  [See what's new in this release](2024/12/05/photodemon-2024-12.html).
+**Version 2025.4 is the latest stable release.**  [See what's new in this release](2025/04/24/photodemon-2025-4.html).
 
-**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2024.12/PhotoDemon-2024.12.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2024.12 (zip file, 20.2 mb)</a>**<br />
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2025.4/PhotoDemon-2025.4.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2025.4 (zip file, 20.4 mb)</a>**<br />
 
 Zip file checksums:
 
-`CRC-32: 258c46f3`<br />
-`MD5: bfbf7ed762143ca654ce0a5a73ac0a20`<br />
-`SHA-1: 38a08ea4f9ed06a48516667b8bf213812ab1aa7d`<br />
-`SHA-256: 89a405442fa346900348176265718ad874f65e3ad073d76dd5b1d57179afc7bd`<br />
+`CRC-32: fe5413e8`<br />
+`MD5: 92795b5e77f0356b268a299304673b8a`<br />
+`SHA-1: 8b44f9b79565a337af9029eec5e751a1827c4aac`<br />
+`SHA-256: 4e2c536e10645261a5dee75434a3198064982f2a2f5c9da31992c2ce1371ae2b`<br />
 
 PhotoDemon is 100% free.  You are welcome to use and distribute it however you like, but like most free software, it is completely "use at your own risk".  For additional details, please review [the license page](license/#photodemon-license).
 
