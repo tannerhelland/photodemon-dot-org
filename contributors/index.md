@@ -79,6 +79,7 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * [Giorgio "Gibra" Brausi](http://nuke.vbcorner.net)
 * [GioRock](https://digilander.libero.it/giorock/)
 * [Hans Nolte](https://github.com/hansnolte)
+* Heiner Dietz
 * Helmut Kuerbiss
 * Hidayat Suriapermana
 * [J. Scott Elblein](https://geekdrop.com)
@@ -97,6 +98,8 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * [Leandro Ascierto](http://leandroascierto.com/blog/clsmenuimage/)
 * [Lemuel Cushing](https://github.com/LemuelCushing)
 * Leonid Blyakher
+* Liviu Ivanov
+* [LsGeorge](https://github.com/LsGeorge)
 * Manfredi Marceca
 * [Manuel Augusto Santos](https://github.com/Planet-Source-Code/manuel-augusto-santos-fast-graphics-filters__1-26303)
 * Mariozo
