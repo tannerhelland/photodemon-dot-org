@@ -35,13 +35,16 @@ The current PhotoDemon build uses these 3rd-party libraries.  Thank you to these
 * [FreeImage](https://freeimage.sourceforge.io/)
 * [libavif](https://github.com/AOMediaCodec/libavif)
 * [libdeflate](https://github.com/ebiggers/libdeflate)
+* [libheif](https://github.com/strukturag/libheif)
 * [libjxl](https://github.com/libjxl/libjxl)
 * [libwebp](https://developers.google.com/speed/webp)
 * [LittleCMS](http://www.littlecms.com)
 * [LZ4](https://lz4.github.io/lz4/)
+* [OpenJPEG](https://github.com/uclouvain/openjpeg)
 * [pdfium](https://pdfium.googlesource.com/pdfium/)
 * [Photoshop-Plugin-Host](https://github.com/spetric/Photoshop-Plugin-Host)
 * [resvg](https://github.com/RazrFalcon/resvg)
+* [twinBASIC](https://github.com/twinbasic/twinbasic)
 * [ZStandard](https://github.com/facebook/zstd)
 
 ### Direct contributors
@@ -130,3 +133,4 @@ The current PhotoDemon release includes source code, translations, artwork, or o
 * [Will Stampfer](https://github.com/epmatsw)
 * [Yuriy Balyuk](https://github.com/veksha)
 * [Zhu JinYong](https://github.com/Planet-Source-Code/zhu-jinyong-unicode-browseforfolder__1-73919)
+* [昇](https://github.com/love80312)
