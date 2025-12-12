@@ -7,16 +7,16 @@ title: Download
 Stable
 -------------------
 
-**Version 2025.4 is the latest stable release.**  [See what's new in this release](2025/04/24/photodemon-2025-4.html).
+**Version 2025.12 is the latest stable release.**  [See what's new in this release](2025/12/12/photodemon-2025-12.html).
 
-**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2025.4/PhotoDemon-2025.4.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2025.4 (zip file, 20.4 mb)</a>**<br />
+**<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2025.12/PhotoDemon-2025.12.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download PhotoDemon 2025.12 (zip file, 22 mb)</a>**<br />
 
 Zip file checksums:
 
-`CRC-32: fe5413e8`<br />
-`MD5: 92795b5e77f0356b268a299304673b8a`<br />
-`SHA-1: 8b44f9b79565a337af9029eec5e751a1827c4aac`<br />
-`SHA-256: 4e2c536e10645261a5dee75434a3198064982f2a2f5c9da31992c2ce1371ae2b`<br />
+`CRC-32: caf05a38`<br />
+`MD5: 99147b687a5adfadcb80634e4df83627`<br />
+`SHA-1: 1e08fd0d42b2cc2dda14d3c5b252fbb8d98fc0ca`<br />
+`SHA-256: 269095087093575a975a66a9588cd8bcc18ff356d20fd4b2851f7e1088df75a1`<br />
 
 PhotoDemon is 100% free.  You are welcome to use and distribute it however you like, but like most free software, it is completely "use at your own risk".  For additional details, please review [the license page](license/#photodemon-license).
 
@@ -29,7 +29,7 @@ Every night, a new build is automatically created from the latest PhotoDemon sou
 
 **Use at your own risk.**
 
-<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, ~20 mb)</a>
+<a href="https://tannerhelland.github.io/PhotoDemon-Updates-v2/PhotoDemon_nightly.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />Download latest nightly build (zip file, ~22 mb)</a>
 
 Source code
 ------------------

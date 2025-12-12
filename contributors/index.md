@@ -21,7 +21,6 @@ Super Patrons:
 
 Patrons:
 
-* Tim Parsons
 * Frank Reibold
 * Jim Schmidt
 

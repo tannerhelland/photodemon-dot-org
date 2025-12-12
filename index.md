@@ -7,7 +7,7 @@ title: Home
 Download
 --------
 
-Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2025.4/PhotoDemon-2025.4.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 2025.4 (zip file, 20.4 mb)</a>**<br />
+Latest stable release: **<a href="https://github.com/tannerhelland/PhotoDemon/releases/download/v2025.12/PhotoDemon-2025.12.zip"><img src="media/Download-24.png" alt="Download" srcset="media/Download-48.png 2x" />PhotoDemon 2025.12 (zip file, 22 mb)</a>**<br />
 
 For additional downloads, including nightly builds and checksums, [visit the download page](download/).
 
